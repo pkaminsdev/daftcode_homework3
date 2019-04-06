@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Erica+One');
+
+@import 'base/reset';
+
+@import 'utils/colors',
+        'utils/fonts';
+
+@import 'components/container';
+
+body
+{
+    background-color: $color-black;
+}
